@@ -5,10 +5,10 @@ This project focuses on the design and implementation of a solar power tracker u
 
 ![BlockDiagram](SolarTracker.PNG)
 
-- ## **Dynamic Solar Tracking:** Utilizes LDR sensors to measure sunlight intensity from two different directions. ##  
-- ## **PID Control Optimization:** Fine-tuned in MATLAB to efficiently regulate the solar panel’s positioning.  ##
-- ## **Simulation & Testing:** Circuit modeled in Proteus, with PID parameters refined through MATLAB analysis. ## 
-- ## **Hardware Implementation:** Arduino-driven servo motors dynamically adjust the solar panel’s alignment. ##
+- ##### **Dynamic Solar Tracking:** Utilizes LDR sensors to measure sunlight intensity from two different directions. #####  
+- ##### **PID Control Optimization:** Fine-tuned in MATLAB to efficiently regulate the solar panel’s positioning.  #####
+- ##### **Simulation & Testing:** Circuit modeled in Proteus, with PID parameters refined through MATLAB analysis. ##### 
+- ##### **Hardware Implementation:** Arduino-driven servo motors dynamically adjust the solar panel’s alignment. #####
 
 ![Proteus Simulation](proteussim.PNG)
 
