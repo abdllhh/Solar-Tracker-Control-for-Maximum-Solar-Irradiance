@@ -21,11 +21,11 @@ For PID Controller I used the MATLAB PID block and obtained the values of Kp, Ki
 
 ![Simulink](simulink.PNG)
 
-These values of Kp, Ki, Kd were then used and implented in the Arduino Code
+These values of Kp, Ki, Kd were then used and implented in the Arduino Code in the main.cpp file
 
 ## References ##
-** PID-Arduino Reference: https://www.arduino.cc/reference/en/libraries/pid/ **
-** Analysis of Arduino based tracker: https://iopscience.iop.org/article/10.1088/1742-6596/2051/1/012011 **
+PID-Arduino Reference: https://www.arduino.cc/reference/en/libraries/pid/ 
+Analysis of Arduino based tracker: https://iopscience.iop.org/article/10.1088/1742-6596/2051/1/012011 
 
 
 
