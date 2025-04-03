@@ -2,6 +2,7 @@
 Solar Panel Tracker using Arduino, PID Controller, LDRs, Servo Motors
 
 [Watch the video](solarTracker.mp4)
+https://github.com/user-attachments/assets/41073b0a-213a-4c2d-98b4-d02e8661b075
 
 This project focuses on the design and implementation of a solar power tracker using Light Dependent Resistors (LDRs), an Arduino Uno microcontroller, a servo motor, and a solar panel. The primary objective is to maximizethe efficiency of the solar panel by orienting it towards the direction of maximum sunlight throughout the day. This is achieved through the implementation of a Proportional Integral Derivative (PID) controller algorithm in the Arduino Uno, which continuously adjusts the position of the solar panel based on the readings from the LDRs. The project demonstrates the feasibility and effectiveness of using a PID controller for solar power tracking, and by maximizing exposure to sunlight, the project underscores the potential of PID control mechanisms in enhancing solar panel efficiency, thereby advancing renewable energy utilization.
 
